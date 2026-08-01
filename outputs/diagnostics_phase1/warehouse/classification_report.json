@@ -1,0 +1,33 @@
+{
+  "forklift": {
+    "precision": 0.2087912087912088,
+    "recall": 0.5588235294117647,
+    "f1-score": 0.304,
+    "support": 34.0
+  },
+  "human": {
+    "precision": 0.14925373134328357,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.24691358024691357,
+    "support": 14.0
+  },
+  "background": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 128.0
+  },
+  "accuracy": 0.16477272727272727,
+  "macro avg": {
+    "precision": 0.11934831337816414,
+    "recall": 0.42436974789915966,
+    "f1-score": 0.18363786008230454,
+    "support": 176.0
+  },
+  "weighted avg": {
+    "precision": 0.05220712123697199,
+    "recall": 0.16477272727272727,
+    "f1-score": 0.07836812570145903,
+    "support": 176.0
+  }
+}

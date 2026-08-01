@@ -1,0 +1,10 @@
+{
+  "domain": "warehouse",
+  "total_samples_evaluated": 40,
+  "mAP50": 0.2896401611614296,
+  "mAP50_95": 0.06215291870678033,
+  "overall_precision_macro": 0.11934831337816414,
+  "overall_recall_macro": 0.42436974789915966,
+  "overall_f1_macro": 0.18363786008230454,
+  "mean_iou_matched_gt": 0.6662335912386577
+}

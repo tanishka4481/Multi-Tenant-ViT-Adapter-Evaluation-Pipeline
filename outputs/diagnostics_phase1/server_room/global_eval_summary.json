@@ -1,0 +1,10 @@
+{
+  "domain": "server_room",
+  "total_samples_evaluated": 40,
+  "mAP50": 0.14920935091934703,
+  "mAP50_95": 0.027863160654026508,
+  "overall_precision_macro": 0.05192629815745394,
+  "overall_recall_macro": 0.25833333333333336,
+  "overall_f1_macro": 0.08647140864714087,
+  "mean_iou_matched_gt": 0.6313722787364837
+}
