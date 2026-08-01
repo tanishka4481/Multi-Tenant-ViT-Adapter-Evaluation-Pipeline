@@ -1,0 +1,11 @@
+# Python / Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual Env
+venv/
+env/
+
+# Output Archive
+vision_transformer_pipeline_artifacts.zip
