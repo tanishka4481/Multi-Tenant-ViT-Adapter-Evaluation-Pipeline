@@ -1,0 +1,11 @@
+{
+  "status": "COMPLETED",
+  "phase1_status": "SUCCESS",
+  "phase2_status": "SUCCESS",
+  "phase3_status": "SUCCESS",
+  "tenants_evaluated": [
+    "server_room",
+    "warehouse",
+    "retail"
+  ]
+}
